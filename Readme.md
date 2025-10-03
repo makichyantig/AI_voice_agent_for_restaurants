@@ -25,6 +25,39 @@
 
 ---
 
+## 🔗 Screen Recordings
+
+---
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/8e6ac29b-4102-4639-8075-854fb8dbddc0" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/9df45492-37a2-49a5-a377-d63d4afcbb6a" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/e553c7b3-b55b-4681-ab6c-7b2c2ef15ac1" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/bb6f760b-56e1-4c30-9178-6cce69c48f47" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## 🖥️ Technologies Used
 
 ### 🌐 Frontend
